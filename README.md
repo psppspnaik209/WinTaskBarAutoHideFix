@@ -1,3 +1,4 @@
+Kinda works, still in devlopment
 # Windows 11 Taskbar Auto-Hide Fix
 
 A lightweight, background utility to automatically detect and correct the Windows 11 taskbar auto-hide bug.
